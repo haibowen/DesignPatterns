@@ -1,0 +1,4 @@
+include ':ObserverDemo'
+include ':lib'
+include ':app'
+rootProject.name = "MySubjectDemo"
