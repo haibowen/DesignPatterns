@@ -5,6 +5,7 @@ import com.example.lib.interface_demo.Subject;
 
 import java.util.ArrayList;
 
+//主题  或者说是被观察者
 public class WeatherData implements Subject {
     private ArrayList observers; //存储所有观察者
     private float temperature;

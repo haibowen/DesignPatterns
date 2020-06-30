@@ -1,7 +1,7 @@
 package com.example.observerdemo;
 
 import java.util.Observable;
-
+//被观察者 实现的是jdk内置的Observable类
 public class WeatherData extends Observable {
 
     private  float temperature;

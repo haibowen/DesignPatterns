@@ -1,5 +1,6 @@
 package com.example.lib;
 
+//测试类
 public class WeatherStation {
 
     public static void main(String[] args) {

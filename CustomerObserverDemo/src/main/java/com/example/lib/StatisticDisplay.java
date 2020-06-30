@@ -4,6 +4,7 @@ import com.example.lib.interface_demo.DisplayElement;
 import com.example.lib.interface_demo.ObserverOne;
 import com.example.lib.interface_demo.Subject;
 
+//其中一个观察者
 public class StatisticDisplay implements ObserverOne, DisplayElement {
 
     private float temperature;
