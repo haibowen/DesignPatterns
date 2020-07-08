@@ -1,4 +1,6 @@
-package com.example.decorator;
+package com.example.decorator.drink;
+
+import com.example.decorator.Beverage;
 
 public class HouseBlend extends Beverage {
 
