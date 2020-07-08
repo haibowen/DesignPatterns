@@ -1,3 +1,5 @@
+include ':Decorator'
+include ':Decorator'
 include ':ObserverDemo'
 include ':CustomerObserverDemo'
 include ':app'

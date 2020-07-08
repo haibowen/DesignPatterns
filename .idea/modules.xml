@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CustomerObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CustomerObserverDemo.iml" group="MySubjectDemo/CustomerObserverDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/.idea/modules/Decorator/Decorator.iml" group="MySubjectDemo/Decorator" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" group="MySubjectDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverDemo/ObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverDemo/ObserverDemo.iml" group="MySubjectDemo/ObserverDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MySubjectDemo/app" />
