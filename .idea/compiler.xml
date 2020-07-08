@@ -5,6 +5,7 @@
       <module name="CustomerObserverDemo" target="1.7" />
       <module name="Decorator" target="1.7" />
       <module name="DecoraTOR" target="1.7" />
+      <module name="DecoratorIODemo" target="1.7" />
       <module name="ObserverDemo" target="1.7" />
     </bytecodeTargetLevel>
   </component>

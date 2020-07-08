@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CustomerObserverDemo" />
             <option value="$PROJECT_DIR$/Decorator" />
+            <option value="$PROJECT_DIR$/DecoratorIODemo" />
             <option value="$PROJECT_DIR$/ObserverDemo" />
             <option value="$PROJECT_DIR$/app" />
           </set>
