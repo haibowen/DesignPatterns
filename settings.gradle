@@ -1,3 +1,4 @@
+include ':Singleton'
 include ':DecoratorIODemo'
 include ':Decorator'
 include ':Decorator'

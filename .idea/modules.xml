@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorIODemo/DecoratorIODemo.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorIODemo/DecoratorIODemo.iml" group="MySubjectDemo/DecoratorIODemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" group="MySubjectDemo" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverDemo/ObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverDemo/ObserverDemo.iml" group="MySubjectDemo/ObserverDemo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/.idea/modules/Singleton/Singleton.iml" group="MySubjectDemo/Singleton" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MySubjectDemo/app" />
     </modules>
   </component>
