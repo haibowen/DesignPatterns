@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Abstract/MySubjectDemo.AbstractFactory.iml" filepath="$PROJECT_DIR$/.idea/modules/Abstract/MySubjectDemo.AbstractFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomerObserverDemo/MySubjectDemo.CustomerObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomerObserverDemo/MySubjectDemo.CustomerObserverDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoraTOR/MySubjectDemo.Decorator.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoraTOR/MySubjectDemo.Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorIODemo/MySubjectDemo.DecoratorIODemo.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorIODemo/MySubjectDemo.DecoratorIODemo.iml" />

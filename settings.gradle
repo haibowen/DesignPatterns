@@ -1,3 +1,4 @@
+include ':Abstract'
 include ':Factory'
 include ':ProxyPattern'
 include ':Singleton'
