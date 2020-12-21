@@ -15,15 +15,12 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+  <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../../ObserverDemo/build/classes/java/main" />
     <output-test url="file://$MODULE_DIR$/../../../ObserverDemo/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../ObserverDemo">
       <sourceFolder url="file://$MODULE_DIR$/../../../ObserverDemo/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ObserverDemo/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ObserverDemo/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../ObserverDemo/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../ObserverDemo/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../ObserverDemo/build" />
     </content>

@@ -15,15 +15,12 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+  <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../../DecoratorIODemo/build/classes/java/main" />
     <output-test url="file://$MODULE_DIR$/../../../DecoratorIODemo/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../DecoratorIODemo">
       <sourceFolder url="file://$MODULE_DIR$/../../../DecoratorIODemo/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../DecoratorIODemo/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../DecoratorIODemo/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../DecoratorIODemo/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../DecoratorIODemo/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../DecoratorIODemo/build" />
     </content>

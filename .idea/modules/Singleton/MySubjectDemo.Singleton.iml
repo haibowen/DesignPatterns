@@ -15,15 +15,12 @@
       </configuration>
     </facet>
   </component>
-  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+  <component name="NewModuleRootManager">
     <output url="file://$MODULE_DIR$/../../../Singleton/build/classes/java/main" />
     <output-test url="file://$MODULE_DIR$/../../../Singleton/build/classes/java/test" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../Singleton">
       <sourceFolder url="file://$MODULE_DIR$/../../../Singleton/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../Singleton/src/main/resources" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../Singleton/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../Singleton/src/test/resources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/../../../Singleton/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../Singleton/build" />
     </content>

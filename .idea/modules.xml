@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/CustomerObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/CustomerObserverDemo.iml" group="MySubjectDemo/CustomerObserverDemo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/.idea/modules/Decorator/Decorator.iml" group="MySubjectDemo/Decorator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorIODemo/DecoratorIODemo.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorIODemo/DecoratorIODemo.iml" group="MySubjectDemo/DecoratorIODemo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" group="MySubjectDemo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverDemo/ObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverDemo/ObserverDemo.iml" group="MySubjectDemo/ObserverDemo" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern/ProxyPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern/ProxyPattern.iml" group="MySubjectDemo/ProxyPattern" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/.idea/modules/Singleton/Singleton.iml" group="MySubjectDemo/Singleton" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="MySubjectDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/MySubjectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomerObserverDemo/MySubjectDemo.CustomerObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomerObserverDemo/MySubjectDemo.CustomerObserverDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoraTOR/MySubjectDemo.Decorator.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoraTOR/MySubjectDemo.Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DecoratorIODemo/MySubjectDemo.DecoratorIODemo.iml" filepath="$PROJECT_DIR$/.idea/modules/DecoratorIODemo/MySubjectDemo.DecoratorIODemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Factory/MySubjectDemo.Factory.iml" filepath="$PROJECT_DIR$/.idea/modules/Factory/MySubjectDemo.Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ObserverDemo/MySubjectDemo.ObserverDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/ObserverDemo/MySubjectDemo.ObserverDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProxyPattern/MySubjectDemo.ProxyPattern.iml" filepath="$PROJECT_DIR$/.idea/modules/ProxyPattern/MySubjectDemo.ProxyPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Singleton/MySubjectDemo.Singleton.iml" filepath="$PROJECT_DIR$/.idea/modules/Singleton/MySubjectDemo.Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MySubjectDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MySubjectDemo.app.iml" />
     </modules>
   </component>
 </project>
