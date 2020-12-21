@@ -1,3 +1,4 @@
+include ':ProxyPattern'
 include ':Singleton'
 include ':DecoratorIODemo'
 include ':Decorator'

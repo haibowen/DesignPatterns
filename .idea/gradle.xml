@@ -16,6 +16,7 @@
             <option value="$PROJECT_DIR$/Decorator" />
             <option value="$PROJECT_DIR$/DecoratorIODemo" />
             <option value="$PROJECT_DIR$/ObserverDemo" />
+            <option value="$PROJECT_DIR$/ProxyPattern" />
             <option value="$PROJECT_DIR$/Singleton" />
             <option value="$PROJECT_DIR$/app" />
           </set>
