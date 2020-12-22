@@ -6,6 +6,7 @@
       <module name="Decorator" target="1.7" />
       <module name="DecoraTOR" target="1.7" />
       <module name="DecoratorIODemo" target="1.7" />
+      <module name="Factory" target="1.7" />
       <module name="MySubjectDemo.app" target="1.8" />
       <module name="ObserverDemo" target="1.7" />
       <module name="ProxyPattern" target="1.7" />
